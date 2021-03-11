@@ -95,6 +95,21 @@
                             </div>
                         </div>
 
+                        <div class="col-md-4">
+                            <div class="card mb-4 box-shadow">
+                                <img class="card-img-top" src="https://i.pinimg.com/736x/a8/d4/b5/a8d4b5a571540212b1865810c87a4082.jpg" alt="Card image cap">
+                                <div class="card-body">
+                                    <h5 class="card-title">Alexis Saborrido</h5>
+                                    <p class="card-text">Hello there, I am Alexis. Check out my page to know more about me.</p>
+                                    <div class="d-flex justify-content-between align-items-center">
+                                        <div class="btn-group">
+                                            <a href="/sabo.php" type="button" class="btn btn-sm btn-outline-secondary">View</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>
