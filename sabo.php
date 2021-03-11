@@ -16,7 +16,7 @@
 
 
             body{
-                background-image: url("https://www.pcclean.io/wp-content/uploads/2020/4/rU32uy.jpg");
+                background-image: url("/assets/image/sabo-bg.jpg");
                 background-repeat: no-repeat;
                 background-size: 100%;
             }
@@ -40,7 +40,7 @@
             <p style="text-align: center;"><a href="/">Back Home</a></p>
 
         <div id="images">
-            <img src="https://digitalsynopsis.com/wp-content/uploads/2015/03/web-designer-developer-jokes-humour-funny-14.jpg" width="250" height="450" style="text-align: center;">
+            <img src="/assets/image/sabo-meme.jpg" width="250" height="450" style="text-align: center;">
         </div>
 
     </body>
