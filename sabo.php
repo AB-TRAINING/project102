@@ -97,7 +97,7 @@
       </main>
     
       <footer class="mt-auto text-white-50">
-        <p>Visit me on facebook <a href="https://twitter.com/mdo" class="text-blue">here</a>.</p>
+        <p>Visit me on facebook <a href="https://www.facebook.com/AnyColourYouLiek/" class="text-blue">here</a>.</p>
       </footer>
     </div>
     
